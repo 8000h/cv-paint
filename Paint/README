@@ -1,0 +1,10 @@
+This program was my final project for AP Computer Science 2017.
+
+Given ideal lighting, "Paint" will track the user's hand and allow them
+to draw on the screen. The primary focus of this project was to learn
+OpenCV.
+
+-- Controls --
+Fist (no fingers up): Move your hand around the drawable area.
+1 Finger Up: The program will track your fingertip and draw.
+2 Fingers Up: The program will let you select which color you want to draw with (not implemented)
